@@ -29,12 +29,8 @@ Description of each class:
   Class @RunWordle
   This class implements Runnable, adds all the components including the game board and the buttons to the screen.
 
-
-========================
-=: External Resources :=
-========================
-
-  https://www.bragitoff.com/2016/03/english-dictionary-in-csv-format/
-  https://www.youtube.com/watch?v=2alIWd1-jlI&t=179s
-  https://stackoverflow.com/
-  JavaDocs
+External Resources:
+https://www.bragitoff.com/2016/03/english-dictionary-in-csv-format/
+https://www.youtube.com/watch?v=2alIWd1-jlI&t=179s
+https://stackoverflow.com/
+JavaDocs
