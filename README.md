@@ -3,7 +3,7 @@ The NY Times Wordle Game Recreated on Java Swing
 
 Description of each class:
 
-  Class @Box
+  Class @Box \\
   Extends the JLabel class. Box represents each singular box on the grid. The use of this class is so that I can
   update the state of each Box accordingly - either the letter displayed in the box or the color of the box.
 
